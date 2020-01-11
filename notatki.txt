@@ -1,0 +1,10 @@
+o jest poczatek
+
+==========Rozdział 1=========
+Git jest systemem kontroli wersji pozwalajacym na zdalne pracowanie z dokumentam oraz  kodem. 
+
+
+git init - inicjalizacja repozytorim 
+
+
+
